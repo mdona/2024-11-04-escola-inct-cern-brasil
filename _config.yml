@@ -72,6 +72,13 @@ title: "Workshop Title"
 #------------------------------------------------------------
 
 #------------------------------------------------------------
+# UCL HPCC Course settings
+#------------------------------------------------------------
+arc_website: "https://www.ucl.ac.uk/advanced-research-computing/"
+arc_education_website: "https://www.ucl.ac.uk/advanced-research-computing/education"
+hpcc_lesson_site: "http://github-pages.arc.ucl.ac.uk/hpc-intro/"
+
+#------------------------------------------------------------
 # Generic settings (should not need to change).
 #------------------------------------------------------------
 
